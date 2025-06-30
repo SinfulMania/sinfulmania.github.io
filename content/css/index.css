@@ -217,7 +217,7 @@ nav{
     content: none;
 }
 
-.content-principal video, .content-principal iframe{
+.content-principal iframe, .content-principal audio{
     margin: 0 auto;
     display: block;
     padding-bottom: 20px;
